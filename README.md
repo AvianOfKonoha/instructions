@@ -7,7 +7,7 @@ I think it goes without saying that you need NODE installed in order to use node
 
 Execute this command
 ```
-npm i vue@2 vue-axios@2 axios webpack-mix
+npm i vue@2 vue-axios@2 axios webpack-mix cross-env
 ```
 
 ##### 2. Set up your environment
